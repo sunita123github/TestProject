@@ -1,4 +1,4 @@
-package com.velocity;
+package com.java.practice;
 
 public class A {
 	//String str="My name is Harshal";
